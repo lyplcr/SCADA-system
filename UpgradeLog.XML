@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SCADA">
+</Property><Property Name="Solution File" Value="C:\Users\Nedim\Documents\Visual Studio 2008\Projects\SCADA\SCADA.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Nedim\Documents\Visual Studio 2008\Projects\SCADA\SCADA.suo">
+</Property><Property Name="Date" Value="Thursday, January 06, 2011">
+</Property><Property Name="Time" Value="14:22">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SCADA.sln" Description="File successfully backed up as C:\Users\Nedim\Documents\Visual Studio 2008\Projects\SCADA\SCADA.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="SCADA.suo" Description="File successfully backed up as C:\Users\Nedim\Documents\Visual Studio 2008\Projects\SCADA\SCADA.suo.old">
+</Event><Event ErrorLevel="0" Project="SCADA" Source="SCADA\SCADA.vcproj" Description="Converting project file 'C:\Users\Nedim\Documents\Visual Studio 2008\Projects\SCADA\SCADA\SCADA.vcproj'.">
+</Event><Event ErrorLevel="1" Project="SCADA" Source="SCADA\SCADA.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="SCADA" Source="SCADA\SCADA.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="SCADA" Source="SCADA\SCADA.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="SCADA" Source="SCADA\SCADA.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="SCADA" Source="SCADA\SCADA.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="SCADA" Source="SCADA\SCADA.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="SCADA" Source="SCADA\SCADA.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="SCADA" Source="SCADA\SCADA.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="SCADA" Source="SCADA\SCADA.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="SCADA" Source="SCADA\SCADA.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="SCADA" Source="SCADA\SCADA.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="SCADA" Source="SCADA\SCADA.vcproj" Description="Done converting to new project file 'C:\Users\Nedim\Documents\Visual Studio 2008\Projects\SCADA\SCADA\SCADA.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="SCADA" Source="SCADA\SCADA.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SCADA.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SCADA.sln" Description="Converted">
+</Event></UpgradeLog>
